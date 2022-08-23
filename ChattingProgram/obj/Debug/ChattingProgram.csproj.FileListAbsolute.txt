@@ -1,0 +1,10 @@
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\bin\Debug\ChattingProgram.exe.config
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\bin\Debug\ChattingProgram.exe
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\bin\Debug\ChattingProgram.pdb
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\obj\Debug\ChattingProgram.csprojAssemblyReference.cache
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\obj\Debug\ChattingProgram.Form1.resources
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\obj\Debug\ChattingProgram.Properties.Resources.resources
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\obj\Debug\ChattingProgram.csproj.GenerateResource.cache
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\obj\Debug\ChattingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\obj\Debug\ChattingProgram.exe
+C:\Users\Boyoung\Desktop\GIT_Chatting\ChattingProgram\obj\Debug\ChattingProgram.pdb
